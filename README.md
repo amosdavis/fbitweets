@@ -9,3 +9,12 @@ How it's going to work.
 (╯°□°）╯︵ ┻━┻
 ┬─┬﻿ ノ( ゜-゜ノ)
 ┬─┬⃰͡ (ᵔᵕᵔ͜ )
+
+
+Requirements:
+You must be using "Debian GNU/Linux 11 (bullseye)"
+sudo apt-get install python3-pip
+sudo pip install rainbowstream
+#Ok,  here it seems to have installed the 'twitter' python application.  This is cool.
+#Rainbowstream wants to suck you in and make you not use the CLI directly
+twitter set #This command sets my status!
