@@ -1,3 +1,4 @@
+echo "twitter set '@FBIAlbany, this whole country is under cyberattack by quantum entanglement weaponry that places phone calls.  Do something! Now!" | at now +1 minute
 echo 'twitter set "@FBIAlbuquerque, this whole country is under cyberattack by quantum entanglement weaponry that places phone calls.  Do something! Now!"' | at now +2 days
 echo 'twitter set "@FBIAnchorage, this whole country is under cyberattack by quantum entanglement weaponry that places phone calls.  Do something! Now!"' | at now +4 days
 echo 'twitter set "@FBIAtlanta, this whole country is under cyberattack by quantum entanglement weaponry that places phone calls.  Do something! Now!"' | at now +6 days
