@@ -7,14 +7,19 @@ How it's going to work.
 3) This repository is supposed to look stupid and be dumb.  I shouldn't need to program this, so I'm going to just slap a shell script together probably using at.  Anyone. could. have. done. this.
 
 (╯°□°）╯︵ ┻━┻
-┬─┬﻿ ノ( ゜-゜ノ)
+
+┬─┬ ノ( ゜-゜ノ)
+
 ┬─┬⃰͡ (ᵔᵕᵔ͜ )
 
 
 Requirements:
 You must be using "Debian GNU/Linux 11 (bullseye)"
+
 sudo apt-get install python3-pip
+
 sudo pip install rainbowstream
 #Ok,  here it seems to have installed the 'twitter' python application.  This is cool.
 #Rainbowstream wants to suck you in and make you not use the CLI directly
+
 twitter set #This command sets my status!
