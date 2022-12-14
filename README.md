@@ -23,3 +23,7 @@ sudo pip install rainbowstream
 #Rainbowstream wants to suck you in and make you not use the CLI directly
 
 twitter set #This command sets my status!
+
+
+Update 12/14/2022: This project has been terminated early.  I've done what I had to do.
+https://twitter.com/TheDrakeDavis/status/1603140044423921668
